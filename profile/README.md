@@ -17,9 +17,12 @@ Our work sits at the intersection of **AI**, **productivity** and **digital prod
 ## What we're working on
 
 - 🌐 **A new website at [kumado.ai](https://kumado.ai)**: the home of our ideas, products and resources.
-- 🧰 **AI and productivity products**, including **Kumado Workspace** and **Imagine**.
 
-This is just the beginning. We're building in the open where it makes sense, and we'll share what we make here as it takes shape.
+## Our long-term roadmap
+
+We are building towards a family of **AI and productivity products**, including **Kumado Workspace** and **Imagine**. These are long-term bets, and we're taking the time to get them right.
+
+This is just the beginning. We'll share what we make here as it takes shape.
 
 ## Find us
 
