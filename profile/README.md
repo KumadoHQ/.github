@@ -20,7 +20,7 @@ Our work sits at the intersection of **AI**, **productivity** and **digital prod
 
 ## Our long-term roadmap
 
-We are building towards a family of **AI and productivity products**, including **Kumado Workspace** and **Imagine**. These are long-term bets, and we're taking the time to get them right.
+We are building towards a family of **AI and productivity products**, including **Kumado Holon** and **Imagine**. These are long-term bets, and we're taking the time to get them right.
 
 This is just the beginning. We'll share what we make here as it takes shape.
 
